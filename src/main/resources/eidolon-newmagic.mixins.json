@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "eidolon-newmagic.refmap.json",
+    "package": "rmc.mixins.eidolon_newmagic.inject",
+    "mixins": [
+        "RitualRegistryMixin"
+    ]
+}
